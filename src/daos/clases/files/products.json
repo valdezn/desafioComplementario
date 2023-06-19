@@ -1,0 +1,35 @@
+[
+	{
+		"title": "ACTUALIZADO",
+		"description": "Acustic",
+		"price": 2200,
+		"thumbnail": [
+			"https://urguitars.com/wp-content/uploads/2016/04/GD51CE-NAT-scaled.jpeg"
+		],
+		"code": "gui01",
+		"stock": 10,
+		"id": "12ea7d3f-ee2a-4e0e-a56f-2863e1795847"
+	},
+	{
+		"title": "Capo Guitarra",
+		"description": "Metal",
+		"price": 500,
+		"thumbnail": [
+			"https://cf1.zzounds.com/media/productmedia/fit,600by600/quality,85/xcg_0016-5ad219fdd5619681cb5ca063c6aeae6c.jpg"
+		],
+		"code": "capo01",
+		"stock": 10,
+		"id": "0817891d-0a7d-4097-bdce-f0cfea010feb"
+	},
+	{
+		"title": "Capo Guitarra",
+		"description": "Metal",
+		"price": 500,
+		"thumbnail": [
+			"https://cf1.zzounds.com/media/productmedia/fit,600by600/quality,85/xcg_0016-5ad219fdd5619681cb5ca063c6aeae6c.jpg"
+		],
+		"code": "capo01",
+		"stock": 10,
+		"id": "2cccdea8-3aef-47c5-9c4c-462ed186ff8d"
+	}
+]
